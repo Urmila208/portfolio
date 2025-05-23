@@ -1,6 +1,6 @@
 import './About.css';
 import aboutImg from './assets/profile.jpg';
-import Home from './Home';
+
 const About = () => {
   return (
     
@@ -27,7 +27,7 @@ const About = () => {
             <strong> Git</strong>. I constantly strive to learn and grow as a developer, staying
             up-to-date with the latest web technologies.
           </p>
-          <a href="#contact" className="btn">Let's Connect</a>
+          <a href="https://github.com/" className="btn">Let's Connect</a>
       </div>
       </div>
      

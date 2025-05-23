@@ -3,11 +3,11 @@ import './Skills.css';
 
 import {
   FaReact, FaNodeJs, FaHtml5, FaCss3Alt, FaJsSquare,
-  FaGitAlt, FaGithub, FaDatabase, 
+  FaGitAlt, FaGithub,  
 } from 'react-icons/fa';
 
 import {
-  SiMongodb, siVisualStudio,SiTailwindcss, SiExpress, SiPostman, SiNetlify
+  SiMongodb, SiExpress, 
 } from 'react-icons/si';
 
 const skills = [
@@ -18,12 +18,10 @@ const skills = [
   { name: 'JavaScript', icon: <FaJsSquare /> },
   { name: 'HTML', icon: <FaHtml5 /> },
   { name: 'CSS', icon: <FaCss3Alt /> },
-  // { name: 'Tailwind CSS', icon: <SiTailwindcss /> },
+ 
   { name: 'Git', icon: <FaGitAlt /> },
   { name: 'GitHub', icon: <FaGithub /> },
-  // { name: 'Postman', icon: <SiPostman /> },
-  // { name: 'VS Code', icon: <siVisualStudio/> },
-  // { name: 'Netlify', icon: <SiNetlify /> },
+  
 ];
 
 const Skills = () => {
