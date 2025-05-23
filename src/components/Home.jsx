@@ -2,7 +2,7 @@ import About from "./About"
 import Contact from "./Contact"
 import Home1 from "./Home1"
 import Project from "./Project"
-import Skills from "./Skills"
+
 const Home = () => {
   return (
     <div>
