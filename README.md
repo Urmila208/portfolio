@@ -1,1 +1,1 @@
-link::https://684d3aa9f153d1e21b94c4ec--cosmic-tartufo-13184c.netlify.app/
+link:https://6851b023d875b67933e4b60d--zingy-tulumba-e0389b.netlify.app/
